@@ -16,8 +16,7 @@ conic solvers [CSDP](https://projects.coin-or.org/Csdp),
 [SeDuMi](https://github.com/sqlp/sedumi), [SDPA](https://sdpa.sourceforge.io),
 [SDPT3](https://github.com/sqlp/sdpt3), as well as
 [lp_solve](https://lpsolve.sourceforge.io),
-[LINPROG](https://www.mathworks.com/help/optim/ug/linprog.html), and
-[GLPK](https://www.gnu.org/software/glpk/).
+[LINPROG](https://www.mathworks.com/help/optim/ug/linprog.html).
 Detailed numerical results for the
 [NETLIB LP library](http://www.netlib.org/lp),
 [SDPLIB](http://euler.nmt.edu/~brian/sdplib/sdplib.html),
@@ -37,7 +36,7 @@ or higher.
 ## Some demonstration
 
 Published output from
-[demovsdp.m](https://rawgit.com/siko1056/vsdp-2012-ng/master/doc/html/demovsdp.html)
+[demovsdp.m](https://rawgit.com/vsdp/vsdp-2012/master/doc/html/demovsdp.html)
 
 
 ## Contributors
@@ -61,4 +60,4 @@ Christian Jansson (jansson@tuhh.de).
   https://dx.doi.org/10.1137/S1052623402416839
 
 - See the
-  [comprehensive list of references](https://rawgit.com/siko1056/vsdp-2012-ng/master/doc/html/references.html).
+  [comprehensive list of references](https://rawgit.com/vsdp/vsdp-2012/master/doc/html/references.html).
