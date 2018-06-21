@@ -23,4 +23,6 @@ Via its interface, VSDP provides easy access to the conic solvers:
 - [SDPA](https://sdpa.sourceforge.io), and
 - [SDPT3](https://github.com/sqlp/sdpt3).
 
-For more information, please visit <https://vsdp.github.io/>.
+For more information, please read the Manual
+[vsdp-2012-doc.pdf](https://github.com/vsdp/vsdp-2012/raw/master/doc/vsdp-2012-doc.pdf)
+or visit <https://vsdp.github.io/>.
